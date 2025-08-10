@@ -1,5 +1,8 @@
 Hai
 How are you?
 I am fine what about you?
+<<<<<<< HEAD
 I am jotheswaran
-Devops Engineer
+=======
+final commit
+>>>>>>> status
